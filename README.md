@@ -1,0 +1,1 @@
+# git-divergent-error
